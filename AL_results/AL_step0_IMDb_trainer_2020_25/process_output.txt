@@ -1,0 +1,29 @@
+learning rate is 5e-06
+Training example index ['9998', '2817', '9734', '2307', '9336', '4673', '4719', '4476', '3266', '9252', '7004', '2941', '1029', '1251', '8081', '6248', '3101', '4494', '3308', '870', '7553', '1174', '4609', '8412', '6300', '22397', '15498', '22148', '14846', '21792', '17534', '17573', '17245', '15978', '21705', '19527', '15603', '13478', '13711', '20639', '18814', '15827', '17255', '15994', '13322', '20007', '13601', '17414', '20948', '18824']
+IMDb training data statistics -----------------------
+[0 1] [200 200]
+IMDb eval data statistics -----------------------
+[0 1] [122 123]
+| ID | GPU | MEM |
+------------------
+|  0 |  0% |  1% |
+{'loss': 0.6666, 'learning_rate': 4.75e-06, 'epoch': 1.0}
+{'eval_loss': 0.5240560173988342, 'eval_accuracy': 0.9102040816326531, 'eval_runtime': 9.7472, 'eval_samples_per_second': 25.135, 'eval_steps_per_second': 1.641, 'epoch': 1.0}
+{'loss': 0.0974, 'learning_rate': 4.5e-06, 'epoch': 2.0}
+{'eval_loss': 0.470498651266098, 'eval_accuracy': 0.9061224489795918, 'eval_runtime': 9.7176, 'eval_samples_per_second': 25.212, 'eval_steps_per_second': 1.646, 'epoch': 2.0}
+{'loss': 0.0017, 'learning_rate': 4.25e-06, 'epoch': 3.0}
+{'eval_loss': 0.5374733209609985, 'eval_accuracy': 0.9061224489795918, 'eval_runtime': 9.7612, 'eval_samples_per_second': 25.099, 'eval_steps_per_second': 1.639, 'epoch': 3.0}
+{'loss': 0.0009, 'learning_rate': 4.000000000000001e-06, 'epoch': 4.0}
+{'eval_loss': 0.5719705820083618, 'eval_accuracy': 0.9020408163265307, 'eval_runtime': 9.7204, 'eval_samples_per_second': 25.205, 'eval_steps_per_second': 1.646, 'epoch': 4.0}
+{'loss': 0.0006, 'learning_rate': 3.7500000000000005e-06, 'epoch': 5.0}
+{'eval_loss': 0.6004984974861145, 'eval_accuracy': 0.9061224489795918, 'eval_runtime': 9.7538, 'eval_samples_per_second': 25.118, 'eval_steps_per_second': 1.64, 'epoch': 5.0}
+{'loss': 0.0005, 'learning_rate': 3.5e-06, 'epoch': 6.0}
+{'eval_loss': 0.6280300617218018, 'eval_accuracy': 0.9061224489795918, 'eval_runtime': 9.7714, 'eval_samples_per_second': 25.073, 'eval_steps_per_second': 1.637, 'epoch': 6.0}
+{'loss': 0.0004, 'learning_rate': 3.2500000000000002e-06, 'epoch': 7.0}
+{'eval_loss': 0.6435413956642151, 'eval_accuracy': 0.9061224489795918, 'eval_runtime': 9.7615, 'eval_samples_per_second': 25.099, 'eval_steps_per_second': 1.639, 'epoch': 7.0}
+{'train_runtime': 501.4625, 'train_samples_per_second': 15.953, 'train_steps_per_second': 3.988, 'train_loss': 0.10973009910966669, 'epoch': 7.0}
+Exception IMDb_og_human_trainer_2020_25_7\keys.txt
+Exception IMDb_og_human_trainer_2020_25_7\process_output.txt
+| ID | GPU | MEM |
+------------------
+|  0 |  0% | 43% |
