@@ -18,7 +18,7 @@ Tested Python 3.6, and requiring the following packages, which are available via
 * Required: [nltk>=3.6.5](https://www.nltk.org/)
 
 
-### Step 1. Data Processing
+### Generate static semi-factual augmented examples by replacing non-rationales
 
 
 ### Step 2. 
