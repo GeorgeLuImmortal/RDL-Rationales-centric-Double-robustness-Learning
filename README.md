@@ -23,27 +23,9 @@ Tested Python 3.6, and requiring the following packages, which are available via
 
 See _static_semi_factual_generation.ipynb_ 
 
-### Step 2. 
+### Generate false rationales augmented data
 
 
-### Step 3. 
-
-
-### Step 4.
-
-
-### Step 5. 
-
-
-### Step 6.
-
-
-## Setup of experiments in the paper
-
-
-1.step0: semi-facutal augmented
-2.step0: duplication
-3.step0: random replacement
 
 
 
