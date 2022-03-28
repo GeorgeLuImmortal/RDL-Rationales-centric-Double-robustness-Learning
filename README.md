@@ -32,7 +32,7 @@ Then see _IMDb_generate_false_rationales_examples.ipynb_
 
 Run _IMDb_step1_generate_missing_rationales_examples.py_
 
-## Baselines training and prediction scripts are in progress
+other baselines training and prediction scripts are in progress ...
 
 
 
