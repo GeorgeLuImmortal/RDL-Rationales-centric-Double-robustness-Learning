@@ -2,7 +2,7 @@
 
 This repository is associated with paper [A Rationale-Centric Framework for Human-in-the-loop Machine Learning](https://arxiv.org/abs/2203.12918) (to be pulished in ACL 2022)
 
-![overview](./plots/overview_v5.0.png)
+![overview](./plots/overview.png)
 
 ## Usage
 
