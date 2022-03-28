@@ -20,7 +20,7 @@ Tested Python 3.6, and requiring the following packages, which are available via
 
 ### Generate static semi-factual augmented examples by replacing non-rationales
 
-See __static_semi_factual_generation.ipynb__ 
+See _static_semi_factual_generation.ipynb__ 
 
 ### Step 2. 
 
