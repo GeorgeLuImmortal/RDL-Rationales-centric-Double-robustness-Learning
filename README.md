@@ -18,9 +18,10 @@ Tested Python 3.6, and requiring the following packages, which are available via
 * Required: [nltk>=3.6.5](https://www.nltk.org/)
 
 
+
 ### Generate static semi-factual augmented examples by replacing non-rationales
 
-See _static_semi_factual_generation.ipynb__ 
+See _static_semi_factual_generation.ipynb_ 
 
 ### Step 2. 
 
