@@ -25,6 +25,14 @@ See _static_semi_factual_generation.ipynb_
 
 ### Generate false rationales augmented data
 
+Run _IMDb_step1_generate_false_rationales_position.py_
+Then see _IMDb_generate_false_rationales_examples.ipynb_
+
+### Generate missing rationales augmented data
+
+Run _IMDb_step1_generate_missing_rationales_examples.py_
+
+## Baselines training and prediction scripts are in progress
 
 
 
