@@ -2,6 +2,8 @@
 
 This repository is associated with paper [A Rationale-Centric Framework for Human-in-the-loop Machine Learning](https://arxiv.org/abs/2203.12918) (to be pulished in ACL 2022)
 
+![alt text](./plots/overview_v5.0.pdf)
+
 ## Usage
 
 ### Dependencies
