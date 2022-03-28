@@ -17,7 +17,20 @@ Tested Python 3.6, and requiring the following packages, which are available via
 * Required: [datasets>=1.14.0](https://huggingface.co/docs/datasets/index)
 * Required: [nltk>=3.6.5](https://www.nltk.org/)
 
+### Top-level directory layout
 
+    .
+    ├── datasets                   # IMDb datasets, human labelled rationales, counterfactuals examples (Hovy et al.)
+    ├── AL_results                 # Experimental outputs of baseline active learning
+    ├── DP_results                 # Experimental outputs of baseline duplication
+    ├── RR_results                 # Experimental outputs of baseline random replacement
+    ├── MR_results                 # Experimental outputs of baseline missing rationales
+    ├── FR_results                 # Experimental outputs of baseline false rationales
+    ├── SF_results                 # Experimental outputs of our approach static semi-factuals
+    ├── full_results               # Experimental outputs of baseline training with the full training set
+    ├── Hybrid_results             # Experimental outputs of our approach dynamic human-intervened correction
+    └── README.md
+    
 
 ### Generate static semi-factual augmented examples by replacing non-rationales
 
