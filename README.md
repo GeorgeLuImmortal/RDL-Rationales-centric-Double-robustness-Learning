@@ -1,8 +1,8 @@
 # A Rationale-Centric Framework for Human-in-the-loop Machine Learning (ACL2022)
 
-This repository is associated with the paper [A Rationale-Centric Framework for Human-in-the-loop Machine Learning](https://arxiv.org/abs/2203.12918) 
+This repository is associated with the paper [A Rationale-Centric Framework for Human-in-the-loop Machine Learning](https://arxiv.org/abs/2203.12918) (Accepted to the main conference of ACL2022)
 
-![overview](./plots/overview.png)(Accepted to the main conference of ACL2022)
+![overview](./plots/overview.png)
 
 ## Usage
 
