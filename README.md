@@ -17,13 +17,6 @@ Tested Python 3.6, and requiring the following packages, which are available via
 * Required: [datasets>=1.14.0](https://huggingface.co/docs/datasets/index)
 * Required: [nltk>=3.6.5](https://www.nltk.org/)
 
-### Preliminaries
-
-For running the code, you should add some code in trainer.py (as shown below) under the transformers directory (in my device on ~/Anaconda3/Lib/site-packages/transformers/trainer.py):
-
-![image](https://user-images.githubusercontent.com/16153974/166223389-8c76d2e2-014a-40bd-81fc-b3defb3dc05c.png)
-
-
 
 ### Top-level directory layout
 
@@ -38,7 +31,15 @@ For running the code, you should add some code in trainer.py (as shown below) un
     ├── full_results               # Experimental outputs of baseline training with the full training set
     ├── Hybrid_results             # Experimental outputs of our approach dynamic human-intervened correction
     └── README.md
-    
+ 
+ 
+### Preliminaries
+
+1. For running the code, you should add some code in trainer.py (as shown below) under the transformers directory (in my device on ~/Anaconda3/Lib/site-packages/transformers/trainer.py):
+
+![image](https://user-images.githubusercontent.com/16153974/166223389-8c76d2e2-014a-40bd-81fc-b3defb3dc05c.png)
+
+2. Random sampling a certain number of positives and negatives storing in AL_results/AL_step0_IMDb_trainer_{seed}_ {num_instances_each_class}/keys.txt
 
 ### Generate static semi-factual augmented examples by replacing non-rationales
 
