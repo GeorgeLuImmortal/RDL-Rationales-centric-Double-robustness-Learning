@@ -39,7 +39,7 @@ Tested Python 3.6, and requiring the following packages, which are available via
 
 ![image](https://user-images.githubusercontent.com/16153974/166223389-8c76d2e2-014a-40bd-81fc-b3defb3dc05c.png)
 
-2. Random sampling a certain number of positives and negatives storing in AL_results/AL_step0_IMDb_trainer_{seed}_ {num_instances_each_class}/keys.txt
+2. Random sampling a certain number (25 in our experiments) of positives and negatives storing in AL_results/AL_step0_IMDb_trainer_{seed}_ {num_instances_each_class}/keys.txt
 
 ### Generate static semi-factual augmented examples by replacing non-rationales
 
