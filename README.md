@@ -56,7 +56,9 @@ Then see _IMDb_generate_false_rationales_examples.ipynb_
 
 Run _IMDb_step1_generate_missing_rationales_examples.py_
 
+### In-domain and OOD test 
 
+For Yelp and Amazon OOD test please go OOD_Testing_Amazon and OOD_Testing_Yelp, for in-domain and other OOD testing please go In-domain_OOD_all.py
 
 
 
