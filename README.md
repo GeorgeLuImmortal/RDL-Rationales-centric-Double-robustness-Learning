@@ -41,6 +41,8 @@ Tested Python 3.6, and requiring the following packages, which are available via
 
 2. Random sampling a certain number (25 in our experiments) of positives and negatives storing in AL_results/AL_step0_IMDb_trainer_{seed}_ {num_instances_each_class}/keys.txt
 
+3. Please run scripts with step0 first, then go to __IMDb_AL_example_selection_step1.ipynb__ to extract another 50 examples from the unlabelled pool according to uncertainty sampling. Then can run scripts with step1.
+
 ### Generate static semi-factual augmented examples by replacing non-rationales
 
 See _static_semi_factual_generation.ipynb_ 
@@ -54,9 +56,6 @@ Then see _IMDb_generate_false_rationales_examples.ipynb_
 
 Run _IMDb_step1_generate_missing_rationales_examples.py_
 
-
-
-Other baselines training and prediction scripts are in progress
 
 
 
