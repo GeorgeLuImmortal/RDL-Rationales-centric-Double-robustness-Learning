@@ -17,6 +17,9 @@ Tested Python 3.6, and requiring the following packages, which are available via
 * Required: [datasets>=1.14.0](https://huggingface.co/docs/datasets/index)
 * Required: [nltk>=3.6.5](https://www.nltk.org/)
 
+![image](https://user-images.githubusercontent.com/16153974/166221461-6d8adb41-79c2-4043-9a93-a20970d3e518.png)
+
+
 ### Top-level directory layout
 
     .
